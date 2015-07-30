@@ -10,7 +10,7 @@ overflow:hidden;
   width:10%;
   height:2px;
   box-shadow: 1px 1px 2px 0px rgba(3, 3, 3, 0.3);
-  background-color:#db4437;
+  background-color:#0066CC;
 }
 
 .charts-menu-vertical {
@@ -43,7 +43,7 @@ display:block!important;
 
 /* StringFilter */
 .google-visualization-controls-stringfilter INPUT {
-  border: 1px solid #d9d9d9;
+  border: 1px solid #FF1500;
   border-top: 1px solid silver;
   color: #222;
   line-height: 27px;
