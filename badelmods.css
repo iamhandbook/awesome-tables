@@ -1,7 +1,7 @@
 .count {
 padding-bottom:2px;
-border-top:1px solid #0066CC;
-border-bottom:1px solid #0066CC;
+border-top:1px solid #0066CC; /*mod*/
+border-bottom:1px solid #0066CC;/*mod*/
 font-size:80%;
 overflow:hidden;
 }
@@ -10,7 +10,7 @@ overflow:hidden;
   width:10%;
   height:2px;
   box-shadow: 1px 1px 2px 0px rgba(3, 3, 3, 0.3);
-  background-color:#0066CC;
+  background-color:#0066CC; /*mod*/
 }
 
 .charts-menu-vertical {
@@ -43,7 +43,7 @@ display:block!important;
 
 /* StringFilter */
 .google-visualization-controls-stringfilter INPUT {
-  border: 1px solid #FF1500;
+  border: 1px solid #b9b9b9;
   border-top: 1px solid silver;
   color: #222;
   line-height: 27px;
@@ -239,7 +239,7 @@ display:block!important;
   font-weight: bold;
   font-size: 11px;
   background: none;
-  background-color: #f5f5f5;
+  background-color: #0066CC; /*mod#f5f5f5*/
   background-image: -webkit-gradient(linear,left top,left bottom,from(#f5f5f5),to(#f1f1f1));
   background-image: -webkit-linear-gradient(top,#f5f5f5,#f1f1f1);
   background-image: -moz-linear-gradient(top,#f5f5f5,#f1f1f1);
@@ -261,7 +261,7 @@ display:block!important;
 .google-visualization-controls-categoryfilter .charts-menu-button.charts-menu-button-hover {
   border: 1px solid #C6C6C6;
 	color: #222;
-	background-color: #f8f8f8;
+	background-color: #FF0000; /*mod#f8f8f8*/  
 	background-image: -webkit-gradient(linear,left top,left bottom,from(#f8f8f8),to(#f1f1f1));
 	background-image: -webkit-linear-gradient(top,#f8f8f8,#f1f1f1);
 	background-image: -moz-linear-gradient(top,#f8f8f8,#f1f1f1);
