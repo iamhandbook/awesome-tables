@@ -48,15 +48,15 @@
 
 /** StringFilter **/
 .google-visualization-controls-stringfilter INPUT {
-	border:1px solid #d9d9d9!important;
+	border:1px solid #0066cc!important;
 	color:#222;
 }
 .google-visualization-controls-stringfilter INPUT:hover {
-	border:1px solid #b9b9b9;
-	border-top:1px solid #a0a0a0;
+	border:1px solid #0066cc;
+	border-top:1px solid #0066cc;
 }
 .google-visualization-controls-stringfilter INPUT:focus {
-	border:1px solid #98C8F8;
+	border:1px solid #0066cc;
 }
 
 /** CategoryFilter **/
